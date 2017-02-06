@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#689F38</color>
+    <color name="colorAccent">#FF5252</color>
+
+    <color name="container_background">#EBEBEB</color>
+    <color name="item_background">#FAFAFA</color>
+    <!--87%black-->
+    <color name="secondary_text">#8a000000</color>
+    <!--87%white-->
+    <color name="primary_text">#de000000</color>
+    <!--54%black-->
+    <color name="tertiary_text">#8a000000</color>
+    <color name="image_place_holder">#DFDFDF</color>
+    <color name="image_place_holder_night">#272B2F</color>
+    <integer-array name="gplus_colors">
+        <item>@color/colorAccent</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+</resources>
